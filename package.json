@@ -4,7 +4,6 @@
   "description": "A simple and secure OTP (One-Time Password) generator built with TypeScript. Supports time-based (TOTP) and counter-based (HOTP) OTPs for authentication and security purposes.",
   "main": "./dist/src/index.js",
   "types": "dist/index.d.ts",
-  "type": "module",
   "author": "SOFIA Tech (https://github.com/sofiatechnology)",
   "repository": {
     "type": "git",
